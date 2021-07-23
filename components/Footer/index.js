@@ -26,24 +26,24 @@ const Footer = () => {
               <SocialLogo>D.Donuts</SocialLogo>
             </Link>
             <SocialIcons>
-              <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+              <SocialIconLink href="#" target="_blank" aria-label="Facebook">
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+              <SocialIconLink href="#" target="_blank" aria-label="Instagram">
                 <FaInstagram />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Youtube">
+              <SocialIconLink href="#" target="_blank" aria-label="Youtube">
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href="/"
+                href="#"
                 target="_blank"
                 aria-label="Twitter"
                 rel="noopener noreferrer"
               >
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Linkedin">
+              <SocialIconLink href="#" target="_blank" aria-label="Linkedin">
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
